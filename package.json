@@ -31,7 +31,7 @@
 	},
 	"scripts": {
 		"format": "prettier --write src",
-		"lint": "eslint \"**/*.{js,ts}\"",
+		"lint": "eslint \"**/*.{cjs,cts,js,mjs,mts,ts}\"",
 		"test": "jest",
 		"prebuild": "rm -rf dist/ types/",
 		"build": "tsc"
