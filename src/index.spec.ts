@@ -1,4 +1,4 @@
-import greeting from "./";
+import greeting from ".";
 
 describe("test suite", () => {
 	it("tests", () => {
