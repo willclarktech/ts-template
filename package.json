@@ -25,6 +25,10 @@
 		"*.md",
 		"!*.spec.*"
 	],
+	"engines": {
+		"node": ">=20",
+		"npm": ">=10"
+	},
 	"scripts": {
 		"format": "prettier --write src",
 		"lint": "eslint \"**/*.{js,ts}\"",
