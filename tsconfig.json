@@ -1,8 +1,3 @@
 {
-	"extends": "tsconfig-willclarktech/tsconfig-library.json",
-	"compilerOptions": {
-		"declarationDir": "types/",
-		"outDir": "dist/",
-		"rootDir": "src/"
-	}
+	"extends": "@willclarktech/tsconfig/library.json"
 }

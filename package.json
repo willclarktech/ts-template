@@ -40,6 +40,7 @@
 		"@types/jest": "^29.5.14",
 		"@typescript-eslint/eslint-plugin": "^8.11.0",
 		"@typescript-eslint/parser": "^8.11.0",
+		"@willclarktech/tsconfig": "github:willclarktech/tsconfig-willclarktech#d422104",
 		"eslint": "^9.13.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-config-willclarktech": "github:willclarktech/eslint-config-willclarktech.git#287f445",
@@ -51,7 +52,6 @@
 		"jest": "^29.7.0",
 		"prettier": "^3.3.3",
 		"ts-jest": "^29.2.5",
-		"tsconfig-willclarktech": "github:willclarktech/tsconfig-willclarktech.git#697abd8",
 		"typescript": "^5.6.3"
 	}
 }
